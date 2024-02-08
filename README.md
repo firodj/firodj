@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Here](https://github.com/firodj/awesome) is list of my awesome. 
+
 <!--
 **firodj/firodj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
