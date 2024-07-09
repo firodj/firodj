@@ -1,4 +1,4 @@
-### Hi there 👋
+# [FiroDJ](https://github.com/firodj)
 
 I am a Computer Programmer or in other way a Software Engineer. I start to learn coding when I was 10 years old from reading a books.
 
@@ -14,9 +14,28 @@ I put some of my project's repositories here:
 * [php-capstone](https://github.com/firodj/php-capstone) - Capstone Engine bindings on PHP 7.0+ **PHP**, **C**
 * [rametook](https://github.com/firodj/rametook) - Rametook SMS Gateway **Ruby**, **C**
 
-
 * List of my [awesome](https://github.com/firodj/awesome).
 
+# 🤼 Project I Have Contributed To
+
+* [DS4Windows | C#](https://github.com/Ryochan7/DS4Windows) | [PRs](https://github.com/Ryochan7/DS4Windows/pulls?q=+is%3Apr+author%3Afirodj)
+
+   * Adding gyro input calibration for DualShock 4.
+   * Fix copycat DS4 BT rumble+lightbar.
+
+* [go-astisub | go](https://github.com/asticode/go-astisub) | [PRs](https://github.com/asticode/go-astisub/pulls?q=is%3Apr+author%3Afirodj)
+
+   * Fix for VLC that expect 10 columns for SSA.
+ 
+
+
+# 😄 Support My Works
+
+If you find my work helpful, consider supporting me. 
+
+## PayPal
+
+[Donate with PayPal](https://paypal.me/firodj)
 
 
 <!--
