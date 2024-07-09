@@ -6,7 +6,7 @@ I am a Computer Programmer or in other way a Software Engineer. I start to learn
 Tech & AI Eanthusiast | Go, C/C++, Laravel, Rails, Python |  Reverse Engineering Hobbyist | Open Source Contributor | Audio Programmer | Game Modder | MIDI Sequencer | Entrepreneur
 ```
 
-I put some of my project's repositories here:
+# 💡 Some of My Projects
 
 * [kosongg](https://github.com/firodj/kosongg) - App boilerplate generator, currently for ImGui based C++. Scripting in Python.
 * [bbtrace](https://github.com/firodj/bbtrace) - Basic Block Trace: DynamoRIO client **C**, **RE**
@@ -27,13 +27,15 @@ I put some of my project's repositories here:
 
    * Fix for VLC that expect 10 columns for SSA.
  
+* [DynamoRIO](https://github.com/DynamoRIO/dynamorio) | [PRs](https://github.com/DynamoRIO/dynamorio/pulls?q=is%3Apr+author%3Afirodj)
 
+   * Set WinSDK version to use current ENV WindowsSDKVersion value when using MSVC
 
 # 😄 Support My Works
 
 If you find my work helpful, consider supporting me. 
 
-## PayPal
+## 💸 PayPal
 
 [Donate with PayPal](https://paypal.me/firodj)
 
