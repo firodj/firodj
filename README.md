@@ -27,9 +27,20 @@ Tech & AI Eanthusiast | Go, C/C++, Laravel, Rails, Python |  Reverse Engineering
 
    * Fix for VLC that expect 10 columns for SSA.
  
-* [DynamoRIO](https://github.com/DynamoRIO/dynamorio) | [PRs](https://github.com/DynamoRIO/dynamorio/pulls?q=is%3Apr+author%3Afirodj)
+* [DynamoRIO | C++](https://github.com/DynamoRIO/dynamorio) | [PRs](https://github.com/DynamoRIO/dynamorio/pulls?q=is%3Apr+author%3Afirodj)
 
    * Set WinSDK version to use current ENV WindowsSDKVersion value when using MSVC
+
+## 🔭 Project That Not Merged
+
+* [hscpp | C++](https://github.com/firodj/hscpp/tree/firodj) | [Issue](https://github.com/jheruty/hscpp/issues/22)
+
+  * Feat: if enabled, use ninja build tools
+  * Fix: use UnserializeMove on SaveMove
+  * Feat: using CMake confniguration for prefix and suffix for lib
+  * Fix: add isysroot for AppleClang compiler
+  * Feat: take accounts includedirs when update dependecy graph
+  * Feat: force to build hscpp as static Lib
 
 # 😄 Support My Works
 
