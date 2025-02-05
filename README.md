@@ -42,6 +42,24 @@ Tech & AI Eanthusiast | Go, C/C++, Laravel, Rails, Python |  Reverse Engineering
   * Feat: take accounts includedirs when update dependecy graph
   * Feat: force to build hscpp as static Lib
 
+* [tsf | c++](https://github.com/firodj/tsf/tree/main2)
+  
+  * Apply some default modulators
+  * Add CMakeLists
+  * Add keysig and timesig
+  * Change dB and Gain
+  * Expose samples list
+  * Record region sampleID
+  * Store modulators
+  * Add instrument ID into zone
+  * Dynamic Filter from CC 71 and 74
+  * Set value to bypass filter
+  * Implment Concave and Convex curve, Try velicty using modulator
+  * Pan Modualtor
+  * Modulator for initialFc
+  * Detect Mod-Wheel CC#1 using Modulator and change VibLFODepth
+  * Export converter functions
+
 # 😄 Support My Works
 
 If you find my work helpful, consider supporting me. 
