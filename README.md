@@ -8,7 +8,9 @@ Tech & AI Eanthusiast | Go, C/C++, Laravel, Rails, Python |  Reverse Engineering
 
 # 💡 Some of My Projects
 
-* [kosongg](https://github.com/firodj/kosongg) - App boilerplate generator, currently for ImGui based C++. Scripting in Python.
+* [kosongg](https://github.com/firodj/kosongg) - App boilerplate generator, currently for ImGui based **C++**. Scripting in Python.
+* [vinfony](https://github.com/firodj/vinfony) - MIDI Music Creator **C++** (WIP)
+* [emulasi86](https://github.com/firodj/emulasi86) - Windows Game Emulator - an Attempt to emulate x86 DX1-9 **C++** (WIP)
 * [bbtrace](https://github.com/firodj/bbtrace) - Basic Block Trace: DynamoRIO client **C**, **RE**
 * [ffmpeg-cffi-py](https://github.com/firodj/ffmpeg-cffi-py) - FFmpeg Python via CFFI with ABI **Python**
 * [php-capstone](https://github.com/firodj/php-capstone) - Capstone Engine bindings on PHP 7.0+ **PHP**, **C**
