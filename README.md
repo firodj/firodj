@@ -6,6 +6,8 @@ I am a Computer Programmer or in other way a Software Engineer. I start to learn
 Tech & AI Eanthusiast | Go, C/C++, Laravel, Rails, Python |  Reverse Engineering Hobbyist | Open Source Contributor | Audio Programmer | Game Modder | MIDI Sequencer | Entrepreneur
 ```
 
+[Blog](https://firodj.wordpress.com) * [SoundCloud](https://soundcloud.com/firodj)
+
 # 💡 Some of My Projects
 
 * [kosongg](https://github.com/firodj/kosongg) - App boilerplate generator, currently for ImGui based **C++**. Scripting in Python.
